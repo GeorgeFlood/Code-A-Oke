@@ -1,0 +1,8 @@
+{
+  "name": "code-a-oke",
+  "private": true,
+  "workspaces": [
+    "apps/*"
+  ],
+  "description": "Code-a-oke — coding as a performance"
+}
