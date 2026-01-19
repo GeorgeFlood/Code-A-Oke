@@ -1,8 +1,6 @@
 {
-  "name": "code-a-oke",
-  "private": true,
-  "workspaces": [
-    "apps/*"
-  ],
-  "description": "Code-a-oke — coding as a performance"
+  "dependencies": {
+    "express": "^5.2.1",
+    "express-ws": "^5.0.2"
+  }
 }
